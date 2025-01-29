@@ -1,5 +1,5 @@
 ## Hi there👋 Im Seth!
-- 🔭 I’m currently working on React and Legacy Code
+- 🔭 I’m currently working on React and maintaining legacy code
 - ⚡ Fun fact: I enjoy riding my motorcycle 🛵 and cooking bread 🫓!
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/seth-pattee-39279426b/)
 <!--
